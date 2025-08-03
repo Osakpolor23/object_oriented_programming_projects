@@ -1,4 +1,4 @@
-# Exploring Object-Oriented Programming in Python: Three Mini Projects
+# From Concept to Implementation: Object-Oriented Programming in Action
 
 This repository presents three Python projects designed to illuminate key principles of **Object-Oriented Programming (OOP)**—including **encapsulation**, **initialization**, **instance variables**, **data validation**, and **library-based inheritance**.
 
