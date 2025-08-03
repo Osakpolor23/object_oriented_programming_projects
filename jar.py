@@ -45,9 +45,9 @@ class Jar:
 
 def main():
     jar = Jar()
-    jar.deposit(0) 
+    jar.deposit(5) 
     print(jar)
-    jar.withdraw(0)
+    jar.withdraw(2)
     print(jar)
 
 
