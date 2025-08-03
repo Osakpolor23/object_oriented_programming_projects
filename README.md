@@ -37,6 +37,8 @@ OOP Features
 - **String Representation**: The `__str__()` method returns a visual emoji-based representation of jar contents.
 
 ## 2. seasons.py — Lifetime Minutes Converter
+
+### 📘 Concept
 seasons.py prompts the user for a birth date and converts their age into minutes lived, expressed in natural language. While primarily functional, it demonstrates modular design, data parsing, and composition.
 
 ### Core Functions
@@ -53,6 +55,8 @@ Though not class-based, the design is structured and could be extended into a cl
 Includes test_seasons.py for unit testing with pytest.
 
 ## 3. shirtificate.py — Personalized PDF Generator
+
+### 📘 Concept
 Generates a PDF certificate with the user's name on a CS50 shirt graphic. The script interacts with the FPDF class, showcasing class instantiation, method chaining, and library-based inheritance.
 
 ### Implementation Flow
